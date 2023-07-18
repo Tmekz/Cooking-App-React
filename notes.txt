@@ -1,0 +1,10 @@
+Tester  l'API dans l'URL https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata
+
+Aller chercher les  données avec  Axios
+
+Stocker ces données dans le UseState
+
+Afficher ces données avec un  .map, mettre la logique des  CARDS dans un  composant CARD.js
+
+BONUS
+Rechercher ce qui est tapé dans l'input
